@@ -1,0 +1,18 @@
+func main() {
+    fmt.Println("Hello, Algorithm")
+}
+int main(){
+    cout << "Hello, Algorithm" << endl;
+    return 0;
+}
+print("Hello, Algorithm")
+public class Main {
+    public static void main() {
+        System.out.println("Hello, Algorithm");
+    }
+}
+console.log("Hello, Algorithm");
+fn main() {
+  println!("Hello, Algorithm")
+}
+

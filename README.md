@@ -20,3 +20,7 @@ https://justlog.tistory.com/category/Algorithm
 
 
 
+### Marking Rule
+
+- 🫠 : 다른 사람의 풀이를 보고 습득함. 다시 풀어야 함.
+- ⭐️ : 다른 사람의 코드를 보고 습득함. 다시 풀어봄.

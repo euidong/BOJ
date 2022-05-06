@@ -2,6 +2,12 @@
 
 백준 문제 풀이한 코드입니다.
 
+### 작성자 정보
+
+> `solved.ac` 작성자 링크
+
+[<img src="https://static.solved.ac/logo.svg" width="50">](https://solved.ac/profile/justicedong)
+
 ### 기본 폴더 구조
 
 문제번호/main.py 가 문제 풀이에 해당하는 내용입니다.

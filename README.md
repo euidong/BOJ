@@ -14,7 +14,9 @@
 가끔 다른 파일 등도 존재하는데 이는 시행착오 정도로 보시면 될 것 같습니다.
 
 ### File 생성
+
 file 매번 생성하는 것은 번거롭기 때문에 shell 명령어 만들어 두었습니다.
+
 ```bash
 make no=<problem number>
 ```
@@ -23,8 +25,6 @@ make no=<problem number>
 
 Algorithm 문제 풀이 관련 내용은 Blog에 정리해두었습니다.
 https://justlog.tistory.com/category/Algorithm
-
-
 
 ### Marking Rule
 

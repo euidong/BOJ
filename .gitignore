@@ -1,0 +1,5 @@
+.idea
+Info.plist
+**/main.dSYM/**
+main
+
